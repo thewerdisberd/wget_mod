@@ -1,5 +1,5 @@
 # wget_mod
-A wrapper for wget to handle command options and provide the ability to modify certain headers.
+A wrapper for wget to handle command options, manage logging, and provide the ability to modify certain headers.
 
 Run install.sh to create the necessary output directories, wget_mod is ready to use.
 
